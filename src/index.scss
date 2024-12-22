@@ -1,0 +1,31 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.header {
+  background-color: red;
+  color: white;
+  text-align: center;
+  padding: 50px 0;
+}
+
+.navbar {
+  width: 30%;
+  background-color: green;
+  text-align: center;
+  padding: 100px 0;
+}
+
+.content {
+  width: 70%;
+  background-color: yellow;
+  text-align: center;
+  padding: 100px 0;
+}
+
+.footer {
+  background-color: blue;
+  color: white;
+  text-align: center;
+  padding: 50px 0;
+}
